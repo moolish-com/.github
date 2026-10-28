@@ -4,7 +4,7 @@
 
 | Repository | What it is |
 |---|---|
-| [td-sequential](https://github.com/moolish-com/td-sequential) | TD Sequential indicator for JavaScript and TypeScript (npm `td-sequential`) |
+| [td-sequential](https://github.com/moolish-com/td-sequential) | TD Sequential indicator for JavaScript and TypeScript (npm `td-sequential-indicator`) |
 | [td-sequential-python](https://github.com/moolish-com/td-sequential-python) | TD Sequential indicator for Python and pandas (PyPI `td-sequential`) |
 | [td-sequential-pine-script](https://github.com/moolish-com/td-sequential-pine-script) | TD Sequential indicator for TradingView, Pine Script v6, with alerts |
 | [td-sequential-screener](https://github.com/moolish-com/td-sequential-screener) | Command-line screener that lists the crypto pairs that just printed a 9 or a 13 |
